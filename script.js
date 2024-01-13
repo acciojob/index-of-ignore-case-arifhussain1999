@@ -1,5 +1,15 @@
 function indexOfIgnoreCase(s1, s2) {
   // write your code here
+	s1.toLowerCase();
+	s2.toLowerCase();
+	const = s2.char[0];
+//    
+	for (let [index, char] s1.entries()) {
+  if (const===char) {
+  	return index;
+  }
+}
+	return null;
 }
 
 // Please do not change the code below
