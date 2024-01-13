@@ -9,7 +9,7 @@ function indexOfIgnoreCase(s1, s2) {
   	return index;
   }
 }
-	return null;
+	return -1;
 }
 
 // Please do not change the code below
